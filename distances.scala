@@ -27,4 +27,4 @@ def run(np: Int, nr: Int) {
   println("Mean distance after " + nr + " runs " + " = " + (m/nr))
 }
 
-run(10, 1000)
+run(10000, 10)
